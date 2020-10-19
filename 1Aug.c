@@ -2,8 +2,6 @@
 //this is in branch branch
 // A C program for the demo
 
-//range
-// this is in main branch
 
 #include<stdio.h>
 #include<stdlib.h>
